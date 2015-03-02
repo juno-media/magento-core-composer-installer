@@ -42,6 +42,7 @@ class Options
         'js/tiny_mce',
         'lib/Apache',
         'app/code/community/Phoenix/Moneybookers',
+        'var/session'
     );
 
     /**
